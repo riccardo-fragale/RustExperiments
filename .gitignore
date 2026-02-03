@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Rust build artifacts
+**/target/
+**/debug/
+**/release/
+
+# Byproducts
+**/*.dSYM/
